@@ -1,13 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /admin/
-Disallow: /*.json$
 
-Sitemap: https://ipog.pro/sitemap.xml
-
-User-agent: AdsBot-Google
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-Crawl-delay: 1
+Sitemap: https://sites.ipog.pro/sitemap.xml
